@@ -1,5 +1,5 @@
-{
-    "necktie": "OPS",
+ {
+    "👔": "OPS",
     "python": "Python Help",
     "java": "Java Help",
     "clang": "C Help",
@@ -13,9 +13,9 @@
     "windows": "Windows Help",
     "macos": "MacOS Help",
     "math": "Math Help",
-    "woman_scientist": "Physics Help",
+    "👩‍🔬": "Physics Help",
     "knighthacks": "knighthacks",
-    "shell": "shellhacks",
-    "palm_tree": "miamihacks",
+    "🐚": "shellhacks",
+    "🌴": "miamihacks",
     "pp_practice": "PP Participant"
   }
