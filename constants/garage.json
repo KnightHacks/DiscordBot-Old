@@ -1,0 +1,40 @@
+{
+  "nextCache": 1595077578214,
+  "garages": {
+    "A": {
+      "space": 1623,
+      "total": 1623,
+      "percentage": 0
+    },
+    "B": {
+      "space": 980,
+      "total": 1259,
+      "percentage": 22
+    },
+    "C": {
+      "space": 1846,
+      "total": 1852,
+      "percentage": 0
+    },
+    "D": {
+      "space": 1241,
+      "total": 1241,
+      "percentage": 0
+    },
+    "H": {
+      "space": 1284,
+      "total": 1284,
+      "percentage": 0
+    },
+    "I": {
+      "space": 1230,
+      "total": 1231,
+      "percentage": 0
+    },
+    "Libra": {
+      "space": 1007,
+      "total": 1007,
+      "percentage": 0
+    }
+  }
+}

@@ -1,7 +1,4 @@
 /node_modules
 token.json
 *.DS_Store
-roleReactionMap.json
-garage.json
-config.json
 *.log
