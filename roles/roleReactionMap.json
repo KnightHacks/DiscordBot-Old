@@ -1,5 +1,5 @@
 {
-    "angryping": "announcements",
+    "necktie": "General Operations",
     "python": "Python Help",
     "java": "Java Help",
     "clang": "C Help",
@@ -13,7 +13,9 @@
     "windows": "Windows Help",
     "macos": "MacOS Help",
     "math": "Math Help",
-    "hackabull": "hackabull",
+    "woman_scientist": "Physics Help",
     "knighthacks": "knighthacks",
+    "shell": "shellhacks",
+    "palm_tree": "miamihacks",
     "pp_practice": "PP Participant"
   }
